@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 🔭 I’m currently working on a I’m currently working on web application development / building new features for web apps<br>🌱 I’m currently diving deep into React to build awesome user interfaces.<br>👯 I’m looking to collaborate on exciting web development projects, especially those involving React. <br>🤔 I’m looking for help with optimizing React performance and best practices. <br>💬 Ask me about frontend development, web technologies, or anything related to building interactive user experiences. <br>📫 How to reach me: leonardomisir@gmail.com <br>⚡ Fun fact: I recently added a Tic-Tac-Toe game against the computer to one of my projects – my AI is getting scary good! 🤖 😄
 
 
